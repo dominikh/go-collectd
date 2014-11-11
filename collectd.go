@@ -1,4 +1,4 @@
-package collectd
+package collectd // import "honnef.co/go/collectd"
 
 import (
 	"bufio"
